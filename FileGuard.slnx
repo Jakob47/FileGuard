@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="FileGuard/FileGuard.vcxproj" Id="758a1bca-af90-4552-8a69-d9eb2f722fb8" />
+</Solution>
